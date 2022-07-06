@@ -9,3 +9,10 @@ Pentaho Data Integration.
 3.Execution engine - Kettle on local machine / spark
 
 4.Orchestration - Jobs 
+
+Yet to integrate : 
+
+1. Process automation - Jenkins
+2. Data visualization - Power BI / Pentaho
+
+
